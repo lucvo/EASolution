@@ -1,1 +1,1 @@
-# common
+# Enterprise Architecture Solution
